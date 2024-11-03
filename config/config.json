@@ -1,0 +1,7 @@
+{
+    "api-key": "**************",
+    "api-secret": "**************",
+    "db_path": "data/btcusdt-fifo.sqlite",
+    "invest_amount_usd": 100,
+    "symbol": "BTCUSDT"
+}
